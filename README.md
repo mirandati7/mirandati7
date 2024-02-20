@@ -53,6 +53,17 @@
 
 ## Projetos portfolio:
 - [ Microserviços Java com messageria RabbitMQ](https://github.com/mirandati7/microservices-udemy-mc)<br/>
+- [ Aplicação FullStack Java / Angular](https://github.com/mirandati7/front-itss)<br/>
+- [ Projeto com Docker SpringBoot/Angular](https://github.com/mirandati7/docker_spring_softplan)<br/>
+- [ Curso Python - Logica de Programação](https://github.com/mirandati7/curso-python)<br/>
+- [ Curso PostgreSQL - Banco de Dados](https://github.com/mirandati7/curso-postgresql-11)<br/>
+- [ Imersão FullCycle Ecommerce em Andamento](https://github.com/mirandati7/imersao17)<br/>
+
+
+
+
+
+
 
 
 
