@@ -48,8 +48,9 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>      
 </div>
 
-# Certificação AZ900
+# Certificações Microsoft Azure AZ900 
 <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="25%"/>
+
 
 ## Projetos portfolio:
 - [ Microserviços Java com messageria RabbitMQ](https://github.com/mirandati7/microservices-udemy-mc)<br/>
